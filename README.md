@@ -18,4 +18,6 @@ Firstly, I started the simple machine learning process by using applying linear 
 data in 2022. After implementing linear regression, I used mean squared error in order to determine the quantity of
 total error in the prediction.
 
-Lastly, I divided my 
+Lastly, I allocated 20% of my 2023 distance walked data for testing and 80% for training. After the training
+operation, I made comparison between the prediction data and the actual data by using scatterplot.
+
